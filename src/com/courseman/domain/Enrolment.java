@@ -1,5 +1,5 @@
 package com.courseman.domain;
 
-public class Modules {
+public class Enrolment {
 
 }
