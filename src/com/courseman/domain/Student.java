@@ -61,4 +61,12 @@ public class Student {
 	public void setEmail(String email) {
 		this.email = email;
 	}
+
+	@Override
+	public String toString() {
+		return "Student [id=" + id + ", name=" + name + ", dob=" + dob + ", address=" + address + ", email=" + email
+				+ "]";
+	}
+	
+	
 }
